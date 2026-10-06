@@ -17,9 +17,21 @@
 
 ## 👨‍💻 About Me
 
-I'm **Ibrahim Salhab**, a Software Engineer focused on **backend and full-stack development**.
+Hi, I'm **Ibrahim Salhab**, a **Software Engineer** focused on **Backend & Full-Stack Development** and **AI Integration**.
 
-I enjoy designing clean architectures, building reliable APIs, working with relational databases, and turning complex requirements into maintainable software.
+I’m interested in **software architecture, system design, and building reliable software systems**. I enjoy understanding problems deeply, making thoughtful technical decisions, and turning them into **clean, maintainable, and scalable solutions**.
+
+My main areas of interest include **backend development, RESTful APIs, database design, software quality, and integrating AI into real-world applications** — with a strong focus on engineering fundamentals and practical solutions.
+
+### 🎯 Focus Areas
+
+* 🏗️ Backend Architecture & System Design
+* 🔌 RESTful APIs & Backend Development
+* 🗄️ Database Design & Data Modeling
+* 🧪 Software Quality, Testing & Maintainability
+* 🤖 AI Integration & AI-powered Applications
+* 🌐 Full-Stack Development
+
 
 ---
 
