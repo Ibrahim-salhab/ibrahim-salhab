@@ -157,8 +157,8 @@ Scalable
 Strong foundation in:
 
 `Data Structures` · `Algorithms` · `Big-O` · `Trees` · `Graphs` · `Hash Maps`
-
 🔗 [LeetCode](https://leetcode.com/u/Ibrahim_Salhab/)
+
 ---
 
 ## 🌱 Currently Improving
