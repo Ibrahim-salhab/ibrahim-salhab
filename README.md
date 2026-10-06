@@ -1,4 +1,4 @@
-<img src="https://capsule-render.herokuapp.com/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Ibrahim%20Salhab&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://mark.sylphx.com/api/v1/mark/hero?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Ibrahim%20Salhab&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descAlignY=56&descSize=18" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=Software+Engineer;Backend+%26+Full-Stack+Developer;Building+Scalable+%26+Maintainable+Systems;Java+%7C+Spring+Boot+%7C+React+%7C+PostgreSQL" />
@@ -179,4 +179,4 @@ Strong foundation in:
   <i>Building software, solving problems, and continuously improving.</i>
 </p>
 
-<img src="https://capsule-render.herokuapp.com/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://mark.sylphx.com/api/v1/mark/hero?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
