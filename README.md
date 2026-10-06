@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Ibrahim%20Salhab&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Ibrahim%20Salhab&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descAlignY=56&descSize=18" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=Software+Engineer;Backend+%26+Full-Stack+Developer;Building+Scalable+%26+Maintainable+Systems;Java+%7C+Spring+Boot+%7C+React+%7C+PostgreSQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=Software+Engineer;Backend+%26+Full-Stack+Developer;AI+Engineer;Building+Scalable+%26+Maintainable+Systems;Java+%7C+Spring+Boot+%7C+React+%7C+PostgreSQL" />
 </p>
 
 <p align="center">
@@ -17,26 +17,40 @@
 
 ## 👨‍💻 About Me
 
-I'm **Ibrahim Salhab**, a Software Engineer focused on **backend and full-stack development**.
+I'm **Ibrahim Salhab**, a Software Engineer focused on **backend and full-stack development**, with additional experience in **AI engineering and LLM-powered applications**.
 
 I enjoy designing clean architectures, building reliable APIs, working with relational databases, and turning complex requirements into maintainable software.
 
-My main focus is **software engineering and backend systems**, with additional experience integrating AI capabilities into applications.
-
-```text
-Backend Engineering     → Java • Spring Boot • REST APIs
-Full-Stack Development  → React • TypeScript
-Data & Persistence      → PostgreSQL • SQL • JPA/Hibernate
-Engineering Practices   → Testing • Docker • CI/CD • Git
-Problem Solving         → 200+ DSA problems
-```
+My primary focus is **software engineering and backend systems**, while AI is an additional area I explore and integrate into practical applications.
 
 ---
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,ts,js,react,postgres,mysql,docker,git,github,linux" />
+### 💻 Software Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,ts,js" />
+</p>
+
+### 🌐 Backend & Full-Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,react,postgres,mysql" />
+</p>
+
+### 🤖 AI Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`RAG` · `LLM APIs` · `LangGraph` · `ChromaDB` · `Embeddings`
+
+### ⚙️ Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 </p>
 
 ---
@@ -47,24 +61,24 @@ Problem Solving         → 200+ DSA problems
 
 **Full-Stack Personal Finance Manager**
 
-A production-oriented application built around clean backend architecture, secure authentication, financial data management, and automated testing.
+A production-oriented application focused on clean backend architecture, secure authentication, financial data management, testing, and deployment.
 
 **Engineering Highlights**
 
-* RESTful backend with **Spring Boot**
+* RESTful API with **Spring Boot**
 * Stateless **JWT authentication**
-* PostgreSQL + JPA/Hibernate
-* Database migrations with Flyway
-* Filtering, pagination & sorting
+* PostgreSQL with JPA/Hibernate
+* Flyway database migrations
+* Filtering, pagination, and sorting
 * CSV/PDF report generation
-* Automated unit & integration testing
+* Unit and integration testing
 * Docker Compose
 * GitHub Actions CI
 * OpenAPI / Swagger documentation
 
 **Stack:** `Java` `Spring Boot` `PostgreSQL` `React` `TypeScript` `Docker`
 
-🔗 [Repository](https://github.com/Ibrahim-salhab/FinTrack)
+🔗 [View Repository](https://github.com/Ibrahim-salhab/FinTrack)
 
 ---
 
@@ -72,19 +86,20 @@ A production-oriented application built around clean backend architecture, secur
 
 **AI-Assisted Recruitment Platform**
 
-A full-stack graduation project combining a robust Spring Boot backend with a React frontend and AI-powered recruitment workflows.
+A full-stack graduation project combining a structured backend architecture with AI-powered recruitment workflows.
 
 **Engineering Highlights**
 
 * Spring Boot REST API
-* Spring Security + JWT
+* Spring Security
+* JWT authentication
 * Role-Based Access Control
 * PostgreSQL
 * React + TypeScript
 * AI-assisted resume processing
 * Candidate/job matching
 
-**Stack:** `Java` `Spring Boot` `PostgreSQL` `React` `TypeScript`
+**Stack:** `Java` `Spring Boot` `PostgreSQL` `React` `TypeScript` `AI APIs`
 
 🔒 Repository currently private
 
@@ -94,13 +109,13 @@ A full-stack graduation project combining a robust Spring Boot backend with a Re
 
 **Hybrid RAG & Research Assistant**
 
-An experimental full-stack system exploring modern AI application architecture while applying strong backend engineering practices.
+A full-stack project exploring AI application architecture while applying practical backend engineering principles.
 
 **Engineering Highlights**
 
 * FastAPI backend
 * Asynchronous API design
-* LangGraph state-machine orchestration
+* LangGraph orchestration
 * ChromaDB vector storage
 * Document ingestion
 * Docker Compose
@@ -108,29 +123,29 @@ An experimental full-stack system exploring modern AI application architecture w
 
 **Stack:** `Python` `FastAPI` `React` `TypeScript` `Docker`
 
-🔗 [Repository](https://github.com/Ibrahim-salhab/route-agent)
+🔗 [View Repository](https://github.com/Ibrahim-salhab/route-agent)
 
 ---
 
-## 🏗️ What I Care About
+## 🏗️ Engineering Focus
+
+I care about building software that is:
 
 ```text
-Clean Architecture
-       ↓
-Reliable APIs
-       ↓
-Well-Designed Data Models
-       ↓
-Security
-       ↓
-Testing
-       ↓
-Performance
-       ↓
-Maintainability
+Clean
+  ↓
+Reliable
+  ↓
+Secure
+  ↓
+Testable
+  ↓
+Maintainable
+  ↓
+Scalable
 ```
 
-I'm particularly interested in:
+### Areas I'm interested in
 
 * Backend Architecture
 * REST API Design
@@ -140,6 +155,7 @@ I'm particularly interested in:
 * System Design
 * Testing & Code Quality
 * Performance & Scalability
+* AI Integration
 
 ---
 
@@ -164,12 +180,7 @@ Strong foundation in:
 
 ## 🌱 Currently Improving
 
-* System Design
-* Backend Architecture
-* Distributed Systems
-* Database Performance
-* Cloud & DevOps
-* Production Software Engineering
+`System Design` · `Backend Architecture` · `Distributed Systems` · `Database Performance` · `Cloud &amp; DevOps` · `Production Software Engineering`
 
 ---
 
@@ -180,7 +191,7 @@ Strong foundation in:
     <img src="https://img.shields.io/badge/LinkedIn-Ibrahim%20Salhab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ibrahimsalhab18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ibrahimsalhab18%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
