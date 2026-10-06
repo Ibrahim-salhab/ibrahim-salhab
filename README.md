@@ -23,16 +23,6 @@ I’m interested in **software architecture, system design, and building reliabl
 
 My main areas of interest include **backend development, RESTful APIs, database design, software quality, and integrating AI into real-world applications** — with a strong focus on engineering fundamentals and practical solutions.
 
-### 🎯 Focus Areas
-
-* 🏗️ Backend Architecture & System Design
-* 🔌 RESTful APIs & Backend Development
-* 🗄️ Database Design & Data Modeling
-* 🧪 Software Quality, Testing & Maintainability
-* 🤖 AI Integration & AI-powered Applications
-* 🌐 Full-Stack Development
-
-
 ---
 
 ## 🧰 Tech Stack
@@ -168,6 +158,7 @@ Strong foundation in:
 
 `Data Structures` · `Algorithms` · `Big-O` · `Trees` · `Graphs` · `Hash Maps`
 
+🔗 [LeetCode](https://leetcode.com/u/Ibrahim_Salhab/)
 ---
 
 ## 🌱 Currently Improving
