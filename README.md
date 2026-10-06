@@ -1,101 +1,170 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=60&lines=Ibrahim+Salhab" alt="Ibrahim Salhab"/>
-</p>
+<img src="https://capsule-render.herokuapp.com/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Ibrahim%20Salhab&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descAlignY=56&descSize=18" width="100%"/>
 
 <p align="center">
-  <b>Software Engineer · Backend & Full-Stack Developer · AI Engineer</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=Software+Engineer;Backend+%26+Full-Stack+Developer;Building+Scalable+%26+Maintainable+Systems;Java+%7C+Spring+Boot+%7C+React+%7C+PostgreSQL" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-salhab-376a0b280/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ibrahimsalhab18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-Software Engineer specializing in **backend and full-stack development**, with hands-on experience building **AI-powered applications**. Focused on clean architecture, reliable APIs, and maintainable systems.
+I'm **Ibrahim Salhab**, a Software Engineer focused on **backend and full-stack development**.
 
----
-
-## Tech Stack
-
-**Languages** · `Java` · `Python` · `C++` · `TypeScript` · `JavaScript`
-
-**Backend & Full-Stack** · `Spring Boot` · `Node.js` · `FastAPI` · `React` · `PostgreSQL` · `MySQL`
-
-**AI Engineering** · `RAG` · `LLM APIs` · `LangGraph` · `ChromaDB` · `Embeddings`
-
-**Tools & DevOps** · `Docker` · `Git` · `GitHub Actions` · `Linux`
+I enjoy designing clean architectures, building reliable APIs, working with relational databases, and turning complex requirements into maintainable software.
 
 ---
 
-## Featured Projects
+## 🧰 Tech Stack
 
-### 💰 FinTrack — Full-Stack Personal Finance Manager
-Production-oriented finance app focused on clean architecture and secure data handling.
-- Spring Boot REST API with stateless JWT authentication
-- PostgreSQL · JPA/Hibernate · Flyway migrations
-- Filtering, pagination, sorting, CSV/PDF reporting
-- Unit & integration tests · Docker Compose · GitHub Actions CI · OpenAPI docs
+### 💻 Software Engineering
 
-**Stack:** `Java` `Spring Boot` `PostgreSQL` `React` `TypeScript` `Docker` · [Repository](https://github.com/Ibrahim-salhab/FinTrack)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,ts,js" />
+</p>
 
-### 🎯 SmartHire — AI-Assisted Recruitment Platform
-Full-stack platform combining structured backend architecture with AI recruitment workflows.
-- Spring Boot REST API with Spring Security & JWT
-- Role-Based Access Control · PostgreSQL
-- AI-assisted resume processing · candidate/job matching
+### 🌐 Backend & Full-Stack
 
-**Stack:** `Java` `Spring Boot` `PostgreSQL` `React` `TypeScript` `AI APIs` · 🔒 Private
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,react,postgres,mysql" />
+</p>
 
-### 🧠 Route Agent — Hybrid RAG & Research Assistant
-Full-stack AI application built on solid backend engineering principles.
-- FastAPI backend with asynchronous API design
-- LangGraph orchestration · ChromaDB vector storage
-- Document ingestion pipeline · Docker Compose
+### ⚙️ Tools & DevOps
 
-**Stack:** `Python` `FastAPI` `React` `TypeScript` `Docker` · [Repository](https://github.com/Ibrahim-salhab/route-agent)
-
----
-
-## Engineering Focus
-
-Building software that is **clean, reliable, secure, testable, and scalable**.
-
-`Backend Architecture` · `REST API Design` · `Database Design` · `Auth & Authorization` · `System Design` · `Testing & Code Quality` · `AI Integration`
-
----
-
-## Problem Solving
-
-**200+ algorithmic problems** solved on LeetCode and Codeforces.
-
-`Data Structures` · `Algorithms` · `Big-O` · `Trees` · `Graphs` · `Dynamic Programming`
-
----
-
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-salhab&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Ibrahim-salhab&theme=tokyonight&hide_border=true" height="165"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 </p>
 
 ---
 
-## Currently Improving
+## 🚀 Featured Projects
 
-`System Design` · `Backend Architecture` · `Distributed Systems` · `Database Performance` · `Cloud & DevOps`
+### 💰 FinTrack
+
+**Full-Stack Personal Finance Manager**
+
+A production-oriented application focused on clean backend architecture, secure authentication, and financial data management.
+
+**Engineering Highlights**
+
+* RESTful API with **Spring Boot**
+* Stateless **JWT authentication**
+* PostgreSQL with JPA/Hibernate
+* Flyway database migrations
+* Filtering, pagination, and sorting
+* CSV/PDF report generation
+* Unit and integration testing
+* Docker Compose
+* GitHub Actions CI
+* OpenAPI / Swagger documentation
+
+**Stack:** `Java` `Spring Boot` `PostgreSQL` `React` `TypeScript` `Docker`
+
+🔗 [View Repository](https://github.com/Ibrahim-salhab/FinTrack)
 
 ---
 
-## Connect
+### 🎯 SmartHire
+
+**Full-Stack Recruitment Platform**
+
+A full-stack graduation project combining a structured backend architecture with resume processing and candidate/job matching workflows.
+
+**Engineering Highlights**
+
+* Spring Boot REST API
+* Spring Security
+* JWT authentication
+* Role-Based Access Control
+* PostgreSQL
+* React + TypeScript
+* Resume parsing and matching
+* AI-assisted features
+
+**Stack:** `Java` `Spring Boot` `PostgreSQL` `React` `TypeScript`
+
+🔒 Repository currently private
+
+---
+
+### 🧠 Route Agent
+
+**Research Assistant Platform**
+
+A full-stack project exploring document-driven application architecture while applying practical backend engineering principles.
+
+**Engineering Highlights**
+
+* FastAPI backend
+* Asynchronous API design
+* Document ingestion pipeline
+* Vector storage
+* Docker Compose
+* React + TypeScript frontend
+* AI-assisted features
+
+**Stack:** `Python` `FastAPI` `React` `TypeScript` `Docker`
+
+🔗 [View Repository](https://github.com/Ibrahim-salhab/route-agent)
+
+---
+
+## 🏗️ Engineering Focus
+
+I care about building software that is:
+
+```text
+Clean
+  ↓
+Reliable
+  ↓
+Secure
+  ↓
+Testable
+  ↓
+Maintainable
+  ↓
+Scalable
+```
+
+### Areas I'm interested in
+
+* Backend Architecture
+* REST API Design
+* Database Design
+* Authentication & Authorization
+* Software Architecture
+* System Design
+* Testing & Code Quality
+* Performance & Scalability
+
+---
+
+## 🧩 Problem Solving
+
+> **200+ algorithmic problems** solved across LeetCode and Codeforces.
+
+Strong foundation in:
+
+`Data Structures` · `Algorithms` · `Big-O` · `Trees` · `Graphs` · `Hash Maps`
+
+---
+
+## 🌱 Currently Improving
+
+`System Design` · `Backend Architecture` · `Distributed Systems` · `Database Performance` · `Cloud & DevOps` · `Production Software Engineering`
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-salhab-376a0b280/">
@@ -106,6 +175,8 @@ Building software that is **clean, reliable, secure, testable, and scalable**.
   </a>
 </p>
 
-<p align="center"><i>Building software, solving problems, and continuously improving.</i></p>
+<p align="center">
+  <i>Building software, solving problems, and continuously improving.</i>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.herokuapp.com/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
