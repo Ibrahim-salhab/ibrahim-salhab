@@ -1,278 +1,191 @@
-<!-- ===================== HEADER ===================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Ibrahim%20Salhab&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Backend%20Software%20Engineer&descAlignY=55&descSize=20" width="100%"/>
-
-<!-- ===================== INTRO ===================== -->
-
-<h1 align="center">
-  Hey 👋 I'm Ibrahim Salhab
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Ibrahim%20Salhab&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack&descAlignY=56&descSize=18" width="100%"/>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=Software+Engineer;Backend+%26+Full-Stack+Developer;Building+Scalable+%26+Maintainable+Systems;Java+%7C+Spring+Boot+%7C+React+%7C+PostgreSQL" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Building+Scalable+Backend+Systems;APIs+%7C+Databases+%7C+Distributed+Systems;Always+Learning+%26+Building" />
+  <a href="https://www.linkedin.com/in/ibrahim-salhab-376a0b280/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ibrahimsalhab18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Ibrahim Salhab**, a Backend Software Engineer focused on designing and building reliable, scalable, and maintainable backend systems.
+I'm **Ibrahim Salhab**, a Software Engineer focused on **backend and full-stack development**.
 
-I enjoy turning complex problems into clean software architectures and building APIs and services that are secure, performant, and easy to maintain.
+I enjoy designing clean architectures, building reliable APIs, working with relational databases, and turning complex requirements into maintainable software.
+
+My main focus is **software engineering and backend systems**, with additional experience integrating AI capabilities into applications.
 
 ```text
-💻 Backend Development
-🏗️ System Design & Architecture
-🔌 RESTful APIs
-🗄️ Database Design
-⚡ Performance & Scalability
-🔐 Authentication & Security
-🐳 Containerization & DevOps
-🧪 Testing & Code Quality
+Backend Engineering     → Java • Spring Boot • REST APIs
+Full-Stack Development  → React • TypeScript
+Data & Persistence      → PostgreSQL • SQL • JPA/Hibernate
+Engineering Practices   → Testing • Docker • CI/CD • Git
+Problem Solving         → 200+ DSA problems
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,go,cpp" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,spring" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
-
-### DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,git,github,aws" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,ts,js,react,postgres,mysql,docker,git,github,linux" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏗️ Project One — Scalable Backend API
+### 💰 FinTrack
 
-A production-oriented backend system designed with scalability, authentication, validation, and clean architecture in mind.
+**Full-Stack Personal Finance Manager**
 
-**Highlights**
+A production-oriented application built around clean backend architecture, secure authentication, financial data management, and automated testing.
 
-* RESTful API
-* Authentication & authorization
-* PostgreSQL database
-* Redis caching
-* Dockerized development environment
-* Automated testing
-* CI/CD pipeline
+**Engineering Highlights**
 
-**Stack:** `Node.js` · `TypeScript` · `PostgreSQL` · `Redis` · `Docker`
+* RESTful backend with **Spring Boot**
+* Stateless **JWT authentication**
+* PostgreSQL + JPA/Hibernate
+* Database migrations with Flyway
+* Filtering, pagination & sorting
+* CSV/PDF report generation
+* Automated unit & integration testing
+* Docker Compose
+* GitHub Actions CI
+* OpenAPI / Swagger documentation
 
-[🔗 View Repository](YOUR_PROJECT_1_REPO) · [🌐 Live Demo](YOUR_PROJECT_1_DEMO)
+**Stack:** `Java` `Spring Boot` `PostgreSQL` `React` `TypeScript` `Docker`
 
----
-
-### ⚡ Project Two — Distributed Service
-
-A backend service designed to handle asynchronous processing and communication between independent services.
-
-**Highlights**
-
-* Microservice architecture
-* Message queues
-* Background jobs
-* Database optimization
-* Logging & monitoring
-* Fault handling
-
-**Stack:** `Python` · `FastAPI` · `PostgreSQL` · `Redis` · `Docker`
-
-[🔗 View Repository](YOUR_PROJECT_2_REPO)
+🔗 [Repository](https://github.com/Ibrahim-salhab/FinTrack)
 
 ---
 
-### 🔐 Project Three — Authentication Service
+### 🎯 SmartHire
 
-A secure authentication and authorization service implementing modern backend security practices.
+**AI-Assisted Recruitment Platform**
 
-**Highlights**
+A full-stack graduation project combining a robust Spring Boot backend with a React frontend and AI-powered recruitment workflows.
 
-* JWT authentication
-* Refresh tokens
-* Role-based access control
-* Password hashing
-* Input validation
-* Rate limiting
-* Secure API design
+**Engineering Highlights**
 
-**Stack:** `TypeScript` · `Node.js` · `PostgreSQL`
+* Spring Boot REST API
+* Spring Security + JWT
+* Role-Based Access Control
+* PostgreSQL
+* React + TypeScript
+* AI-assisted resume processing
+* Candidate/job matching
 
-[🔗 View Repository](YOUR_PROJECT_3_REPO)
+**Stack:** `Java` `Spring Boot` `PostgreSQL` `React` `TypeScript`
+
+🔒 Repository currently private
 
 ---
 
-## 🏛️ Backend Engineering
+### 🧠 Route Agent
 
-I care about more than simply making an API work.
+**Hybrid RAG & Research Assistant**
+
+An experimental full-stack system exploring modern AI application architecture while applying strong backend engineering practices.
+
+**Engineering Highlights**
+
+* FastAPI backend
+* Asynchronous API design
+* LangGraph state-machine orchestration
+* ChromaDB vector storage
+* Document ingestion
+* Docker Compose
+* React + TypeScript frontend
+
+**Stack:** `Python` `FastAPI` `React` `TypeScript` `Docker`
+
+🔗 [Repository](https://github.com/Ibrahim-salhab/route-agent)
+
+---
+
+## 🏗️ What I Care About
 
 ```text
-Architecture
-     ↓
-Clean Code
-     ↓
-Testing
-     ↓
+Clean Architecture
+       ↓
+Reliable APIs
+       ↓
+Well-Designed Data Models
+       ↓
 Security
-     ↓
+       ↓
+Testing
+       ↓
 Performance
-     ↓
-Scalability
-     ↓
-Observability
+       ↓
+Maintainability
 ```
 
-Areas I'm particularly interested in:
+I'm particularly interested in:
+
+* Backend Architecture
+* REST API Design
+* Database Design
+* Authentication & Authorization
+* Software Architecture
+* System Design
+* Testing & Code Quality
+* Performance & Scalability
+
+---
+
+## 🧩 Problem Solving
+
+> **200+ algorithmic problems** solved across LeetCode and Codeforces.
+
+Strong foundation in:
+
+`Data Structures` · `Algorithms` · `Big-O` · `Trees` · `Graphs` · `Hash Maps` · `Dynamic Programming`
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-salhab&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Ibrahim-salhab&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🌱 Currently Improving
 
 * System Design
+* Backend Architecture
 * Distributed Systems
-* Database Architecture
-* API Design
-* Caching
-* Message Queues
-* Microservices
-* Authentication & Authorization
-* Cloud Infrastructure
-* Performance Optimization
+* Database Performance
+* Cloud & DevOps
+* Production Software Engineering
 
 ---
 
-## 📊 GitHub Statistics
+## 🤝 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
----
-
-## 🌱 Currently Learning
-
-```text
-System Design
-Distributed Systems
-Cloud Architecture
-Kubernetes
-Advanced PostgreSQL
-Message-Driven Architecture
-Observability
-High-Performance Backend Systems
-```
-
----
-
-## 🎯 2026 Goals
-
-* Build production-grade backend systems
-* Contribute to Open Source
-* Improve system design skills
-* Learn more about distributed systems
-* Build scalable cloud-native applications
-* Write cleaner and more maintainable software
-
----
-
-## 🤝 Open Source
-
-I'm interested in contributing to projects related to:
-
-* Backend Engineering
-* Developer Tools
-* APIs
-* Infrastructure
-* Databases
-* Open Source Software
-
-If you're building something interesting, feel free to reach out.
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/ibrahim-salhab-376a0b280/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ibrahim%20Salhab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:ibrahimsalhab18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ibrahimsalhab18%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
-
 <p align="center">
-  <i>"Good software is built with clarity, simplicity, and continuous improvement."</i>
+  <i>Building software, solving problems, and continuously improving.</i>
 </p>
 
-<p align="center">
-  ⭐ If you find my projects useful, consider giving them a star.
-</p>
-
-<!-- ===================== FOOTER ===================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" width="100%"/>
-
-
-<!--
-**Ibrahim-salhab/ibrahim-salhab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
